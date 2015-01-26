@@ -1,0 +1,26 @@
+{
+  "name": "node-chunked",
+  "version": "1.0.0",
+  "description": "Sample application for testing chunked transfer encoding with Node and Nginx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lushchick/node-chunked.git"
+  },
+  "keywords": [
+    "node",
+    "nginx",
+    "transfer-encoding",
+    "chunked",
+    "express"
+  ],
+  "author": "Andrey Lushchick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lushchick/node-chunked/issues"
+  },
+  "homepage": "https://github.com/lushchick/node-chunked"
+}
